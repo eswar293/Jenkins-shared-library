@@ -1,6 +1,6 @@
 #! /user/bin/env groovy
 
-package "src.com.example"
+package com.example
 
 
 class Docker implements Serializable {
