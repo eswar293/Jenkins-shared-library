@@ -2,7 +2,6 @@
 
 package com.example
 
-import com.example.Docker
 
 class Docker implements Serializable {
     def script
