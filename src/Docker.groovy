@@ -2,6 +2,8 @@
 
 package com.example
 
+src/com/example/Docker.groovy
+
 class Docker implements Serializable {
     def script
     Docker(script) {
