@@ -2,7 +2,7 @@
 
 package com.example
 
-src/com/example/Docker.groovy
+import com.example.Docker
 
 class Docker implements Serializable {
     def script
